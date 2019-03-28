@@ -1,5 +1,4 @@
-# DSDA-project
-Fall Detection Prediction Project
+# Fall Detection Prediction Project
 Considering the elder health issue, fall is a serious public health problem and possibly life-threatening for people in fall risk groups. It is one of the most important turning points which not only the manifestation of diseases but also triggers other diseases. Thus, detecting falling and tracking movement helps researchers better understand the information before elder falls. Thereby, researchers can build a warning system to warn people around or send message to relatives in time.
 Özdemir et al develop an automated fall detection system with wearable motion sensor units fitted to the subjects' body at six different positions. Each unit comprises three triaxial devices (accelerometer, gyroscope, and magnetometer/compass) Fourteen volunteers perform a standardized set of movements including 20 voluntary falls and 16 activates of daily living, resulting in a large dataset with 2520 trials. To reduce the computational complexity of training and testing the classifiers, Özdemir et al decided to focus on the raw data for each sensor in a 4 s time window around the point of peak total acceleration of the waist sensor, and then perform feature extraction and reduction.(Özdemir et al, 2017)
 
